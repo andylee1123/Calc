@@ -21,5 +21,5 @@ steps:
 
 
 - script: |
-    npm npm-test
+    npm test
   displayName: 'Unit-Testing'
